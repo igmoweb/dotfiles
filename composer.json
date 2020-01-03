@@ -1,6 +1,5 @@
 {
     "name": "igmoweb/dotfiles",
     "description": "My dotfiles",
-    "type": "metapackage",
     "require": {}
 }
