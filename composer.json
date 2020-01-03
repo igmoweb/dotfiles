@@ -1,5 +1,6 @@
 {
-    "name": "igmoweb/dotfiles",
-    "description": "My dotfiles",
-    "require": {}
+	"version": "1.0.0",
+	"name": "igmoweb/dotfiles",
+	"description": "My dotfiles",
+	"require": {}
 }
