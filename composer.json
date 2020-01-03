@@ -3,5 +3,7 @@
   "author": "igmoweb",
   "version": "1.0.0",
   "description": "My dotfiles",
-  "require": {}
+  "require": {
+    "composer/installers": "^1.7"
+  }
 }
