@@ -13,6 +13,7 @@
     "composer/installers": "^1.7"
   },
   "require-dev": {
-    "composer/composer": "^1.9"
+    "composer/composer": "^1.9",
+    "composer-plugin-api": "^1.1"
   }
 }
