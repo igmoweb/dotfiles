@@ -3,6 +3,12 @@
   "type": "dotfiles-library",
   "version": "1.0.0",
   "description": "My dotfiles",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/igmoweb/dotfiles-installer"
+    }
+  ],
   "require": {
     "igmoweb/dotfiles-installer": "^1.0"
   }
