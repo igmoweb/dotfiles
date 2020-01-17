@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8bbb6dbe3c585e2006c61668d0fab585",
+    "content-hash": "5b557b1454c0a3c05b28a2fade96ecc2",
     "packages": [
         {
             "name": "composer/installers",
@@ -130,11 +130,11 @@
         },
         {
             "name": "igmoweb/dotfiles-installer",
-            "version": "dev-master",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/igmoweb/dotfiles-installer",
-                "reference": "88a6620ecbc03d46d24cf7892abdb6f539e658d2"
+                "reference": "8d45dd9acf836381d492ae62106b947ec6345cb7"
             },
             "require": {
                 "composer-plugin-api": "^1.1",
@@ -153,15 +153,13 @@
                 }
             },
             "description": "Dotfiles Composer installer",
-            "time": "2020-01-17T09:29:00+00:00"
+            "time": "2020-01-17T09:55:14+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "igmoweb/dotfiles-installer": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
