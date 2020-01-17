@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "igmoweb/dotfiles-installer": "^1.0"
+    "igmoweb/dotfiles-installer": "dev-master"
   }
 }
