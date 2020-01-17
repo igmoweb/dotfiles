@@ -1,19 +1,9 @@
 {
   "name": "igmoweb/dotfiles",
-  "type": "composer-plugin",
+  "type": "dotfiles-library",
   "version": "1.0.0",
   "description": "My dotfiles",
-  "extra": {
-    "class": "phpDocumentor\\Composer\\TemplateInstallerPlugin"
-  },
-  "autoload": {
-    "psr-0": {"phpDocumentor\\Composer": "src/"}
-  },
   "require": {
-    "composer/installers": "^1.7",
-    "composer-plugin-api": "^1.1"
-  },
-  "require-dev": {
-    "composer/composer": "^1.9"
+    "igmoweb/dotfiles-installer": "^1.0"
   }
 }
