@@ -4,7 +4,8 @@
 		"react-hooks/rules-of-hooks": "error", // Checks rules of Hooks
 		"react-hooks/exhaustive-deps": "warn", // Checks effect dependencies
 		"react/react-in-jsx-scope": 0, // Not needed in WP
-		"no-unused-vars": 1
+		"no-unused-vars": 1,
+		"react/display-name": 0
 	},
 	"parser": "babel-eslint",
 	"plugins": ["react", "react-hooks"],
