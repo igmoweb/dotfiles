@@ -8,6 +8,7 @@
 		"react/display-name": 0,
 		"sort-destructure-keys/sort-destructure-keys": "error",
 		"yoda": 0,
+		"react/prop-types": 0,
 		"react/jsx-sort-props": [
 			"error",
 			{
