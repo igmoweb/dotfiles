@@ -18,7 +18,7 @@
 		]
 	},
 	"parser": "babel-eslint",
-	"plugins": ["react", "react-hooks"],
+	"plugins": ["react", "react-hooks", "sort-destructure-keys" ],
 	"env": {
 		"browser": true,
 		"commonjs": true,
