@@ -5,7 +5,16 @@
 		"react-hooks/exhaustive-deps": "warn", // Checks effect dependencies
 		"react/react-in-jsx-scope": 0, // Not needed in WP
 		"no-unused-vars": 1,
-		"react/display-name": 0
+		"react/display-name": 0,
+		"sort-destructure-keys/sort-destructure-keys": "error",
+		"yoda": 0,
+		"react/jsx-sort-props": [
+			"error",
+			{
+				"reservedFirst": [ "key", "ref" ],
+				"callbacksLast": true
+			}
+		]
 	},
 	"parser": "babel-eslint",
 	"plugins": ["react", "react-hooks"],
